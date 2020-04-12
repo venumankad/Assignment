@@ -1,0 +1,146 @@
+Which of the following is a semiconductor:
+A) Diamond
+B) Arsenic
+C) Phosphorous
+D) Galliumarsenide
+ANSWER: D
+
+The energy gap is much more in silicon than in germanium because:
+A) It has less number of electrons
+B) It has high atomic mass number
+C) Its crystal has much stronger bonds called ionic bonds
+D) Its valence electrons are more tightly bound to their parent nuclei
+ANSWER: D
+
+Intrinsic semiconductor at room temperature will have what available for conduction:
+A) Electrons
+B) Holes
+C) Both electrons and holes
+D) None of the above
+ANSWER: C
+
+A pure semiconductor behaves like an insulator at Zero Kelvin because:
+A) There is no recombination of electrons with holes
+B) Drift velocity of free electrons is very small
+C) Free electrons are not available for current conduction
+D) Energy possessed by electrons at that low temperature is almost zero
+ANSWER: C
+
+When a pure semiconductor is heated then its resistance:
+A) Goesup
+B) Goesdown
+C) Remains the same
+D) Can’t say
+ANSWER: B
+
+The strength of a semiconductor crystal comes from: 
+A) Forces between nuclei
+B) Forces between protons
+C) Electronpair bonds
+D) None of the above
+ANSWER: C
+
+A pentavalent impurity has how many Valence electrons:
+A) 3
+B) 5
+C) 4
+D) 6
+ANSWER: B
+
+A trivalent impurity has how many valence electrons:
+A) 4
+B) 5
+C) 6
+D) 3
+ANSWER: A
+  
+The random motion of holes and free electrons due to thermal agitation is called:
+A)  Diffusion
+B)  Pressure
+C)  Ionisation
+D)  None of the above
+ANSWER: A
+
+When the temperature of an extrinsic semiconductor is increased, the pronounced effect is on:
+A)  Junction capacitance
+B)  Minority carriers
+C)  Majority carriers
+D)  None of the above
+ANSWER: B
+
+The term bias in electronics usually means:
+A)  The value of ac voltage in the signal.
+B)  The condition of current through a pn junction.
+C)  The value of dc voltages for the device to operate properly.
+D)  The status of the diode.
+ANSWER: C
+
+In an intrinsic semiconductor, the Fermi level:
+A) Lies at the centre of forbidden energy gap.
+B) Is near the conduction band.
+C) Is near the valence band.
+D) May be anywhere in the forbidden energy gap.
+ANSWER: A
+
+The mobility of electrons in a material is expressed in unit of: 
+A) V/s 
+B) m2/V-s
+C) m2/s 
+D) J/K
+ANSWER: B
+
+The manifestation of band structure in solids is due to:
+A)  Heisenberg uncertainty principle
+B)  Pauli’s exclusion principle
+C)  Bohr’s correspondence principle
+D)  Boltzmann law
+ANSWER: B
+
+
+The probability of electrons to be found in the conduction band of an intrinsic semiconductor of finite temperature:
+A) Increases exponentially with increasing band gaP
+B) Decreases exponentially with increasing band gap
+C) Decreases with increasing temperature
+D) Is independent of the temperature and band gap
+ANSWER: B
+
+The dominant mechanism for motion of charge carriers in forward and reverse biased silicon p-n junction are:
+A)  Drift in forward bias, diffusion in reverse bias
+B)  Diffusion in forward bias, drift in reverse bias
+C)  Diffusion in both forward and reverse bias
+D)  Drift in both forward and reverse bias
+ANSWER: B
+
+If in a n-type semiconductor when all donor states are filled, then the net charge density in the donor states becomes:
+A)  1
+B)  Less than 1
+C)  Greater than 1, but not zero
+D)  zero
+ANSWER: B
+
+
+The conductivity of a semiconductor increases with increase in temperature because:
+A)  Number density of free current carriers increases
+B)  Relaxation time increases
+C)  Both number density of carriers and relaxation time increase
+D)  Number density of carriers increases, relaxation time decreases but effect of decrease in relaxation time is much less than increase in number density
+ANSWER: D
+
+
+In a semiconductor, the energy gap between the valence band and conduction band is about:
+A)  5 eV
+B)  10 eV
+C)  15 eV
+D)  1 eV
+ANSWER: D
+
+How is the resistance of semiconductor classified:
+A)  High resistance
+B)  Positive temperature co-efficient
+C)  Negative temperature co-efficient
+D)  Low resistance
+ANSWER: C
+
+
+
+
